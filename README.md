@@ -17,11 +17,7 @@ pip install -r requirements.txt
 Cloning the Repository
 Provide the steps to clone the repository.
 
-bash
-Copy code
-git clone https://github.com/yourusername/your-repository.git
-Running the Project
-Steps to run the project once cloned and dependencies installed.
+.
 
 bash
 Copy code
